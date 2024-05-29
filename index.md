@@ -4,7 +4,7 @@ layout: page
 
 ### About Me
 
-<img src="wqy.png" class="floatpic" width="360" height="480">
+<img src="wqy.png" class="floatpic" width="512" height="512">
 
 I am an undergraduate student majoring in Artificial Intelligence at the School of Future Technology of Dalian University of Technology (2021-2025). At present, I have joined the DUTIR laboratory and am engaged in Natural Language Processing (NLP) related work. I plan to continue my studies in the field of natural language processing in the future!
 
