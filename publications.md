@@ -4,6 +4,8 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Conference Paper
+### Conference Paper
 
 Two conference papers with CCF-A ranking are under submission.
+
+### Journal Paper
