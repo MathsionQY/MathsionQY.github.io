@@ -8,11 +8,11 @@ title: Publications
 
 Two conference papers with CCF-A ranking are under submission.
 
-<br>
+---
 
 ### Journal Paper
 
-<br>
+---
 
 ### Intellectual Property
 - *2024.05*, Software Copyright: Intellectual Property Intelligent Information Service Platform (First author & Application submitted).
