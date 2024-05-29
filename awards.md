@@ -4,11 +4,11 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+### Scholarships
 
 <br>
 
-## Competitions
+### Competitions
 
 - **2023.06**: The 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Works Competition, Provincial Top Award.
 - **2023.03**: U.S. National College Mathematics Competition, Honorable Prize.
@@ -16,5 +16,5 @@ title: Awards
 
 <br>
 
-## Services
+### Services
 
