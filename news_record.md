@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /news_record/news_record.html
+permalink: /news_record/index.html
 title: News Record
 ---
 
