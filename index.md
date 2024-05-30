@@ -34,5 +34,5 @@ I am currently applying for a master's degree or a direct doctorate. If you are 
 ---
 
 ### 💻 Internships
-- *2022.05 - now*, [DUTIR](https://ir.dlut.edu.cn/), China.
+- *2022.05 - now*, [DUTIR](https://ir.dlut.edu.cn/), Dalian, China.
 
