@@ -5,7 +5,7 @@ title: IPEval Benchmark
 ---
 
 ## IPEval Benchmark
-<a href="taibao-ip.help">![Data](https://img.shields.io/badge/IPEval-Data-{brightgreen})</a>
+<a href="www.baidu.com">![Data](https://img.shields.io/badge/IPEval-Data-{brightgreen})</a>
 
 
 
