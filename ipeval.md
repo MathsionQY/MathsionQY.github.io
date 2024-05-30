@@ -5,7 +5,7 @@ title: IPEval Benchmark
 ---
 
 ## IPEval Benchmark
-<a href="www.baidu.com">![Data](https://img.shields.io/badge/IPEval-Data-{brightgreen})</a>
+<a href="javascript:window.location='http://www.baidu.com';">![Data](https://img.shields.io/badge/IPEval-Data-{brightgreen})</a>
 
 
 
