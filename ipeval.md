@@ -4,7 +4,7 @@ permalink: /ipeval/index.html
 title: IPEval Benchmark
 ---
 
-## IPEval Benchmarg
+## IPEval Benchmark
 
 ### Introduction
 
