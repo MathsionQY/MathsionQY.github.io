@@ -5,7 +5,7 @@ title: IPEval Benchmark
 ---
 
 ## IPEval Benchmark
-<img src=https://img.shields.io/badge/IPEval-Data-{brightgreen} link="" />
+<a href=""><img src=https://img.shields.io/badge/IPEval-Data-{brightgreen} /></a>
 
 ---
 ### Introduction
