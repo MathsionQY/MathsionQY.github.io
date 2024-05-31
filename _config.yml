@@ -47,7 +47,7 @@ links:
   - title: News Record
     url: /news_record/
   - title: IPEval Benchmark
-    url: https://dutir-ip.github.io/ipeval/
+    url: /ipeval/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
