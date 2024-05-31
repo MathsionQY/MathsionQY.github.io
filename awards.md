@@ -8,6 +8,7 @@ title: Awards
 - *2023.09*: Technological Innovation Award, Dalian University of Technology.
 - *2023.09*: Learning Excellence Award (Second Prize), Dalian University of Technology.
 - *2022.09*: Community Contribution Award, Dalian University of Technology.
+
 ---
 
 ### Competitions
