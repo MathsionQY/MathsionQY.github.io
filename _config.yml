@@ -41,12 +41,14 @@ links:
     url: /
   - title: Publications
     url: /publications/
+  - title: Projects
+    url: /projects/
   - title: Awards
     url: /awards/
   - title: Blogs
     url: /blogs/
-  - title: News Record
-    url: /news_record/
+  - title: News Records
+    url: /news_records/
   - title: IPEval
     url: /ipeval/
 
