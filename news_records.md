@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /news_record/index.html
-title: News Record
+permalink: /news_records/index.html
+title: News Records
 ---
 
 ### 2024
