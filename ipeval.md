@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ipeval/index.html
-title: IPEval Benchmark
+title: IPEval
 ---
 
 ## IPEval Benchmark
