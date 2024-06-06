@@ -14,7 +14,7 @@ I am currently applying for a master's degree or a direct doctorate. If you are 
 
 ### 🔥 News
 
-- *2024.05*: &nbsp;🎉🎉 We won the **first prize** in Liaoning Province for the 17th China College Students' Computer Design Competition and will be heading to Jinan to participate in the national competition at the end of July.
+- *2024.05*: &nbsp;🎉🎉 As the team leader, I led the team to win the First Prize in Liaoning Province for the 17th China College Students’ Computer Design Competition, and we will be heading to Jinan to participate in the national competition at the end of July.
   
 ---
 
