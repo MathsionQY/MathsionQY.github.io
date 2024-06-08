@@ -6,7 +6,7 @@ layout: page
 
 <img src="wqy.png" class="floatpic" width="512" height="512">
 
-I am an undergraduate student majoring in Artificial Intelligence at the School of Future Technology of Dalian University of Technology (2021-2025). At present, I have joined the DUTIR laboratory and am engaged in Natural Language Processing (NLP) related work. I plan to continue my studies in the field of natural language processing in the future!
+I am an undergraduate student majoring in Artificial Intelligence at the School of Future Technology of Dalian University of Technology (2021-2025). At present, I have joined the DUTIR laboratory and am engaged in Natural Language Processing (NLP) related work. I plan to continue my studies in the field of NLP in the future!
 
 I am currently applying for a master's degree or a direct doctorate. If you are interested in me, please contact me <strong><span>(WeChat: 13782779167, Email: wangqiyao@mail.dlut.edu.cn)</span></strong>. I would be very grateful!
 
