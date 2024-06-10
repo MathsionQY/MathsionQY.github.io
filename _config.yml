@@ -49,8 +49,8 @@ links:
     url: /blogs/
   - title: News Records
     url: /news_records/
-  - title: IPEval
-    url: /ipeval/
+#  - title: IPEval
+#    url: /ipeval/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
