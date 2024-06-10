@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ### Conference Paper
-- IPEval: A Bilingual Intellectual Property AgencyConsultation Evaluation Benchmark for LargeLanguage Models. NeurIPS, under review <a href="">【Paper】</a><a href="https://github.com/Mathsion2/IPEval">【Github】</a><a href="https://huggingface.co/datasets/Mathsion/IPEval">【HuggingFace】</a>
+- IPEval: A Bilingual Intellectual Property Agency Consultation Evaluation Benchmark for Large Language Models. NeurIPS, under review <a href="">【Paper】</a><a href="https://github.com/Mathsion2/IPEval">【Github】</a><a href="https://huggingface.co/datasets/Mathsion/IPEval">【HuggingFace】</a>
 
 ---
 
