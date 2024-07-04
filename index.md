@@ -13,7 +13,7 @@ I am currently applying for a master's degree or a direct doctorate. If you are 
 ---
 
 ### 🔥 News
-- *2024.06*：&nbsp;🎉🎉 As the team leader, I led our team to win the second prize in the Northeast region of the 2024 University Computer Competition, Internet Technology Challenge.
+- *2024.06*: &nbsp;🎉🎉 As the team leader, I led our team to win the second prize in the Northeast region of the 2024 University Computer Competition, Internet Technology Challenge.
 - *2024.05*: &nbsp;🎉🎉 As the team leader, I led the team to win the First Prize in Liaoning Province for the 17th China College Students’ Computer Design Competition, and we will be heading to Jinan to participate in the national competition at the end of July.
   
 ---
