@@ -5,6 +5,7 @@ title: News Records
 ---
 
 ### 2024
+- *2024.07*: As the team leader, I led our team to win the Second Prize at the National level for the 17th China College Students’ Computer Design Competition.
 - *2024.06*: As the team leader, I led our team to win the Second Prize in the Northeast region of the 2024 University Computer Competition, Internet Technology Challenge.
 - *2024.05*: As the team leader, I led the team to win the First Prize in Liaoning Province for the 17th China College Students’ Computer Design Competition, and we will be heading to Jinan to participate in the national competition at the end of July.
 
