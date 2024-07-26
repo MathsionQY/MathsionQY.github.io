@@ -15,6 +15,7 @@ I am currently applying for a master's degree or a direct doctorate. If you are 
 ### 🔥 News
 
 - *2024.07*: &nbsp;🎉🎉 As the team leader, I led our team to win the Second Prize at the National level for the 17th China College Students’ Computer Design Competition.
+
 ---
 
 ### 📖 Educations
